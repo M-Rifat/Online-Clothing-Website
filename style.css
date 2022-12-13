@@ -481,6 +481,9 @@ footer .copyright{
     width: 100%;
     text-align: center;
 }
+footer .copyright p{
+    color:#465b52 ;
+}
 
 
 /*shop-page*/

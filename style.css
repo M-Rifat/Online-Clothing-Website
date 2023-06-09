@@ -883,10 +883,12 @@ main a:hover {
 .contact-details .map {
     margin-top: 30px;
 }
-.contactForm{
+
+.contactForm {
     background-color: #f3f2f7;
     text-align: center;
 }
+
 .contact-form {
     text-align: center;
 }
@@ -973,20 +975,22 @@ main a:hover {
 
 /*cart-page*/
 
-button:hover{
+button:hover {
     cursor: pointer;
 }
-.main{
+
+.main {
     display: flex;
     justify-content: space-between;
     gap: 2em;
     padding: 20px;
 }
-#product{
+
+#product {
     width: 60%;
 }
 
-.main h3{
+.main h3 {
     text-align: center;
     padding: 10px;
     background-color: rgb(216, 221, 224);
@@ -996,10 +1000,12 @@ button:hover{
 }
 
 /*cart*/
-#cart{
+#cart {
     width: 35%;
 }
-.cart-list,.process-list{
+
+.cart-list,
+.process-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -1007,21 +1013,26 @@ button:hover{
     border: 1px dotted black;
     margin-bottom: 30px;
 }
-.left{
+
+.left {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.left h2,p{
+
+.left h2,
+p {
     font-size: 20px;
     margin-right: 20px;
 }
-.cart-list img{
+
+.cart-list img {
     width: 100px;
     height: 100px;
     margin-right: 20px;
 }
-.main input{
+
+.main input {
     height: 25px;
     width: 35px;
     border: 1px solid rgb(99, 93, 93);
@@ -1030,32 +1041,36 @@ button:hover{
     font-size: 18px;
 }
 
-.remove{
+.remove {
     margin-left: 10px;
     height: 25px;
     width: 60px;
     color: white;
-    background-color:rgb(197, 13, 13) ;
+    background-color: rgb(197, 13, 13);
     border: 1px solid white;
     border-radius: 5px;
 }
 
-.clear,.purchase{
+.clear,
+.purchase {
     padding: 15px;
     color: white;
-    background-color:rgb(211, 60, 60) ;
+    background-color: rgb(211, 60, 60);
     border: 1px solid white;
     border-radius: 5px;
 }
-.total{
+
+.total {
     width: 150px;
     padding: 10px;
     color: white;
-    background-color:rgb(122, 122, 122) ;
+    background-color: rgb(122, 122, 122);
     border: 1px solid white;
     border-radius: 5px;
 }
-#List,.process-list{
+
+#List,
+.process-list {
     margin-left: 10px;
     margin-right: 10px;
 }
